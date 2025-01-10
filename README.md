@@ -43,6 +43,14 @@ Ensure the following tools are installed on your machine:
 
    Update the placeholders with actual values.
 
+## **Docker Installation**
+
+   Install [DOCKER](https://www.docker.com/)
+   Use docker-compose to start the server and automatically install dependencies:
+   ```bash
+   docker compose up
+   ```
+
 ## Features
 
 - An interface for testing payment functionality.
